@@ -1,3 +1,6 @@
+DEVOIR POKEDEX
+REPRESENTANTS: Jimmy STD24209 / RaSandratra STD24196 / Thierry STD24212 / Andy STD24211 / Ando STD24159
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
